@@ -1,0 +1,130 @@
+body {
+    font-family:  "Playfair Display" , serif;
+    font-size: 20px;
+    line-height: 27px;
+    color: #2D2829;
+    background: #FBEBEA;
+}
+
+.site-navigation-item a {
+    font-size: 13px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #2D2829;
+    text-decoration: none;
+
+}
+.site-navigation-item a.active {
+    color: #F50049;
+}
+.phone {
+    font-size: 13px;
+    line-height: 16px;
+    color: #2D2829;
+    text-decoration: none;
+    font-weight: 700;
+}
+.promo h1 {
+    font-size: 78px;
+    line-height: 70px;
+    color: #2E2829;
+
+}
+.promo p {
+    font-size: 40px;
+    line-height: 53px;
+    font-style: italic;
+}
+.button {
+    font-size: 13px;
+    line-height: 27px;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #F50049;
+}
+.features {
+    font-size: 14px;
+    line-height: 18px;
+}
+.catalog h2 {
+    font-size: 40px;
+    line-height: 66px;
+}
+.catalog h3 {
+    font-size: 24px;
+    line-height: 32px;
+}
+.catalog a {
+    font-size: 18px;
+    line-height: 24px;
+    text-decoration: none;
+    color: #2D2829;
+}
+.reviews h2 {
+    font-size: 40px;
+    line-height: 66px;
+    text-align: center;
+}
+.reviews h3 {
+    font-size: 27px;
+    line-height: 36px;
+}
+.review .review-info {
+    font-size: 25px;
+    line-height: 33px;
+}
+.advantages h2 {
+    font-size: 40px;
+    line-height: 66px;
+    text-align: center;
+}
+.advantages {
+    background-image: url(../img/berries.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+.advantages-text {
+    font-size: 30px;
+    line-height: 40px;
+    font-style: italic;
+    text-align: center;
+}
+.advantages-list h3 {
+    font-size: 20px;
+    line-height: 27px;
+}
+.contacts h2 {
+    font-size: 40px;
+    line-height: 66px; 
+}
+.contact-list-item h3 {
+    font-size: 20px;
+    line-height: 27px;
+}
+.contact-list-item address {
+    font-style: normal;
+}
+.contact-list-item a {
+    text-decoration: none;
+    color: #2D2829;
+}
+.social-item {
+    background-color: #FFFFFF;
+}
+.main-footer {
+    background-color: #E8E8E8;
+}
+.footer-nav-item a {
+    font-size: 13px;
+    line-height: 16px;
+    color: #2D2829;
+    text-decoration: none;
+}
+.copyright {
+    font-size: 13px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #888888;
+}
